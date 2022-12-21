@@ -1,6 +1,6 @@
 # libsm64-blender - Blender client for LibSM64
 
-This add-on integrates [libsm64](https://github.com/libsm64/libsm64) into Blender and provides various additional integrations with [Fast64](https://bitbucket.org/kurethedead/fast64/).
+This add-on integrates [libsm64](https://github.com/libsm64/libsm64) into Blender and provides various additional integrations with [Fast64](https://github.com/Fast-64/fast64).
 Practically, this means if you're making levels with Fast64 in Blender, you can use this add-on to drop a controller-playable Mario into your scene to run around and test your terrain layout.
 
 **Warning:** This plugin hasn't been battle-tested for very long, save often and use at your own risk!
